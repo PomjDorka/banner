@@ -303,7 +303,7 @@ test:
     debugging_disabled: "<emoji document_id=5332533929020761310>✅</emoji> <b>Режим разработчика выключен</b>"
     suspend_invalid_time: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Неверное время заморозки</b>"
     suspended: "<emoji document_id=5452023368054216810>🥶</emoji> <b>Бот заморожен на</b> <code>{}</code> <b>секунд</b>"
-    results_ping: "<emoji document_id=5431449001532594346>⚡️</emoji> <b><i>𝚙𝚒𝚗𝚐 :</i></b> <b><i>{}</i></b> <i><b>𝚖𝚜</b></i>\n<emoji document_id=5445284980978621387>🚀</emoji> <b><i>𝚞𝚙𝚝𝚒𝚖𝚎 :</i></b> <b><i>{}</b></i>"
+    results_ping: "<emoji document_id=5431449001532594346>⚡️</emoji> <b><i>𝚙𝚒𝚗𝚐 :</i></b> <b><i>{}</i></b> <i><b>𝚖𝚜</b></i>\n<emoji document_id=5445284980978621387>🚀</emoji> <b><i>𝚞𝚙𝚝𝚒𝚖𝚎 :</i></b> <b><i>{}</i></b>"
     ping_hint: "<emoji document_id=5472146462362048818>💡</emoji> <b><i>ping в большей степени зависит от загруженности серверов Telegram</i></b>"
     confidential: "⚠️ <b>Уровень логов</b> <code>{}</code> <b>может содержать личную информацию, будь осторожен</b>"
     confidential_text: "⚠️ <b>Уровень логов</b> <code>{0}</code> <b>может содержать личную информацию, будь осторожен</b>\n<b>Напиши</b> <code>.logs {0} force_insecure</code><b>, чтобы отправить логи игнорируя предупреждение</b>"
