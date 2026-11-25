@@ -1,4 +1,4 @@
-# meta dev: @your_username
+# meta dev: @QpjdQ
 # meta name: Pomidorka
 
 import asyncio
